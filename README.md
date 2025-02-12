@@ -28,9 +28,4 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
----
-<p align="center">
-<img src="https://github.com/siddhipande25/siddhipande25/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
