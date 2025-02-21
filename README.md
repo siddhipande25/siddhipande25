@@ -42,7 +42,7 @@
 ## 🌎 Let's Connect
 - 💼 LinkedIn: [Siddhi Pande](https://www.linkedin.com/in/siddhipande25/)
 - 📷 Instagram: [@siddhipande_](https://instagram.com/siddhipande_)
-- ✉️ Email: [siddhipande25@gmail.com](siddhipande@example.com)
+- ✉️ Email: [siddhipande25@gmail.com](siddhipande@gmail.com)
 
 🔹 _"Always learning, always growing!_" 🚀
 
